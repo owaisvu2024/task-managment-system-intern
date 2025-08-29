@@ -50,7 +50,7 @@ A simple and modern Task Management System with essential and advanced features.
 * **Frontend:** React.js ⚛️, Axios, Tailwind CSS 🎨
 * **Backend:** Node.js 🚀, Express.js, MongoDB Atlas ☁️, JWT 🔐
 * **Realtime:** Socket.IO 🔔
-* **Deployment:** Vercel / Render 🌐
+* **Deployment:** Vercel / Netify 🌐
 
 ## 🚀 Setup Instructions
 
