@@ -57,8 +57,8 @@ A simple and modern Task Management System with essential and advanced features.
 ### 1) Clone & Install
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/owaisvu2024/task-managment-system-intern.git
+cd <task-managment-system-intern>
 
 # Backend
 cd backend
@@ -101,7 +101,7 @@ npm start
 
 ## 📦 Submission
 
-* 🔗 GitHub Repo → [GitHub Repository Link]()
+* 🔗 GitHub Repo → [GitHub Repository Link](https://github.com/owaisvu2024/task-managment-system-intern.git)
 * 🌐 Live URL → [Live Deployed App](https://project-task-managment-system.netlify.app/)
 * 🎥 Demo Video → [Demo Video Link](https://drive.google.com/...)
 
