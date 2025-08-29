@@ -1,0 +1,29 @@
+# Git will not track these files
+# in your project directory.
+# `git add .` command will ignore them.
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Production files
+build/
+dist/
+public/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# MacOS files
+.DS_Store
+
+# Common Log files
+*.log
