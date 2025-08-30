@@ -1,4 +1,7 @@
 # ✅ Task Management System
+Project Name: Task Management System
+
+Application Title: Task Manager App
 
 <div align="center">
 
