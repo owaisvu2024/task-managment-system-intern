@@ -89,6 +89,24 @@ npm start
 * 🔗 **Live URL:** \[https://project-task-managment-system.netlify.app]
 * 🎥 **Demo Video:** \[your-video-link]
 
+🖼️ Screenshots
+📋 Task List Page
+
+<img width="1271" height="736" alt="image" src="https://github.com/user-attachments/assets/e1a6043a-ed0d-4016-a2dc-231f87e85950" />
+
+
+
+➕ Add Task Form
+
+
+
+
+📊 Analytics Dashboard
+
+
+
+
+🔔 Notifications Panel
 
 
 ## 📂 API Endpoints
