@@ -134,7 +134,7 @@ npm start
 ## 📦 Submission
 
 * 🔗 GitHub Repo → [GitHub Repository Link](https://github.com/owaisvu2024/task-managment-system-intern.git)
-* 🌐 Live URL → [Live Deployed App](https://project-task-managment-system.netlify.app/)
+* 🌐 Live URL → [Live Deployed App](https://project-task-managment-system.netlify.app)
 * 🎥 Demo Video → [Demo Video Link](https://youtu.be/kRX0aUcnMTc)
 
 ---
