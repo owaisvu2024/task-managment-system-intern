@@ -90,6 +90,7 @@ npm start
 * 🎥 **Demo Video:** \[your-video-link]
 
 🖼️ Screenshots
+
 📋 Task List Page
 
 <img width="1271" height="736" alt="image" src="https://github.com/user-attachments/assets/e1a6043a-ed0d-4016-a2dc-231f87e85950" />
@@ -97,6 +98,7 @@ npm start
 
 
 ➕ Add Task Form
+
 <img width="1386" height="394" alt="image" src="https://github.com/user-attachments/assets/9e3871b6-db62-4885-b980-1d094ea5eb3c" />
 <img width="1338" height="617" alt="image" src="https://github.com/user-attachments/assets/e9ea5abc-c44e-478c-a90b-5550bf862201" />
 
@@ -114,7 +116,9 @@ npm start
 
 
 🔔 Notifications Panel
-<img width="366" height="212" alt="image" src="https://github.com/user-attachments/assets/b955e22e-bac8-4ffc-8b48-89af20640243" />
+
+<img width="366" height="212" alt="image" src="https://github.com/user-attachments/assets/49ab168a-9018-42eb-8081-c7fc7b4de80b" />
+
 
 ## 📂 API Endpoints
 
