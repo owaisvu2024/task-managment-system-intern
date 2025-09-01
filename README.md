@@ -114,11 +114,7 @@ npm start
 
 
 🔔 Notifications Panel
-
-<img width="395" height="328" alt="image" src="https://github.com/user-attachments/assets/f2ae4fd9-2cb5-4c4b-b03e-02cada5b6d0b" />
-
-<img width="422" height="267" alt="image" src="https://github.com/user-attachments/assets/a9e10066-cd36-4047-9156-4225893de3e1" />
-
+<img width="366" height="212" alt="image" src="https://github.com/user-attachments/assets/b955e22e-bac8-4ffc-8b48-89af20640243" />
 
 ## 📂 API Endpoints
 
