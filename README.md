@@ -97,16 +97,27 @@ npm start
 
 
 ➕ Add Task Form
+<img width="1386" height="394" alt="image" src="https://github.com/user-attachments/assets/9e3871b6-db62-4885-b980-1d094ea5eb3c" />
+<img width="1338" height="617" alt="image" src="https://github.com/user-attachments/assets/e9ea5abc-c44e-478c-a90b-5550bf862201" />
+
+
 
 
 
 
 📊 Analytics Dashboard
 
+<img width="1285" height="842" alt="image" src="https://github.com/user-attachments/assets/e49283cb-f326-48b6-8459-a1c620db938c" />
+
+
 
 
 
 🔔 Notifications Panel
+
+<img width="395" height="328" alt="image" src="https://github.com/user-attachments/assets/f2ae4fd9-2cb5-4c4b-b03e-02cada5b6d0b" />
+
+<img width="422" height="267" alt="image" src="https://github.com/user-attachments/assets/a9e10066-cd36-4047-9156-4225893de3e1" />
 
 
 ## 📂 API Endpoints
